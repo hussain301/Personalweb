@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+     background-color: ;
+
+}
+h1{
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+span{
+    text-decoration: underline;
+}
+
+div.container-top{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top:100px;
+    
+
+}
+.mountain{
+    margin-bottom:0;
+    width: 500px; 
+
+}
+.bottom-cloud{
+    
+    width: 10%;
+    position: absolute;
+    left: 20 0px;
+    bottom: 250px;
+}
+.top-cloud{
+    width: 10%;
+    position: absolute;
+    right: 250px;
+    top: 100px;
+}
+.footer-link{
+  
+    padding: 10px;
+}
+
+p{
+    line-height: 2;
+}
+
+div.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;    
+     }
+.design2{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+.design1{
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin: 10px 30px 0 0;
+
+}
+hr{
+    border-style: none;
+    border-top-style:  dotted;
+    border-color:  #a1aca8;
+    border-width: 6px;
+    width: 5%;
+    margin: 60px auto ;
+}
+
+.contact_me{
+  background-color: #0DB8BE;
+  margin: 50px;
+  padding: 8px;
+  border-radius: 10px;
+  color: white;
+  border: 0;
+  font-size: 20px;
+  width: 150px;
+  height: 40px;
+  transition:  0.35s;
+  
+
+
+}
+.contact_me:hover{
+    /* height: 100px; */
+    background-color: green;
+   transform: scale(1.4);
+}
+
+.bottom-container{
+ background-color: #65BFBF;
+ color: white;
+ font-size: 10px;
+ padding: 30px;
+}
+abbr:hover{
+    /* background-color: blueviolet; */
+    font-size: 30px;
+    font-weight: inherit;
+    color: dodgerblue;
+    transition: 0.34s;
+    
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+.icon-image{
+    transition:  0.2s;
+    
+     
+
+}
+.icon-image:hover{
+transform: scale(1.5);
+
+}
